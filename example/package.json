@@ -1,7 +1,7 @@
 {
   "name": "react-modale-jf-example",
   "homepage": ".",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",
@@ -16,7 +16,11 @@
     "react-modale-jf": "file:.."
   },
   "devDependencies": {
-    "@babel/plugin-syntax-object-rest-spread": "^7.8.3"
+    "@babel/core": "^7.17.9",
+    "@babel/plugin-syntax-jsx": "^7.16.7",
+    "@babel/plugin-syntax-object-rest-spread": "^7.8.3",
+    "@babel/plugin-transform-react-jsx": "^7.17.3",
+    "@babel/preset-react": "^7.16.7"
   },
   "eslintConfig": {
     "extends": "react-app"
