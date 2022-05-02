@@ -6,6 +6,8 @@
 
 [![NPM](https://img.shields.io/npm/v/react-modale-jf.svg)](https://www.npmjs.com/package/react-modale-jf) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+**Version:** 2.0.0
+
 **Last Modified:** 2nd May 2022
 
 ## Installation
