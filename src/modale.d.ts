@@ -1,1 +1,0 @@
-declare module 'react-modale-jf/dist/modale';
