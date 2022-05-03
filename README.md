@@ -8,7 +8,7 @@
 
 **Version:** 2.0.1
 
-**Last Modified:** 2nd May 2022
+**Last Modified:** 3rd May 2022
 
 ## Installation
 Run the following command: `npm install react-modale-jf`
