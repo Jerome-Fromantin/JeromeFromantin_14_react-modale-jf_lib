@@ -10,7 +10,7 @@ La version 1.0.0 de cette librairie avait été créée par le biais de `create-
 
 Cette modale a ensuite été intégrée au projet 14 cité plus haut.
 
-Mise à jour : 03-05-2022 10h15
+Mise à jour : 04-05-2022 11h55
 
 Travail réalisé :
 - Création de la librairie via `create-react-library`.
